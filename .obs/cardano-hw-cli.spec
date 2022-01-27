@@ -16,7 +16,7 @@
 #
 
 %global pkg_name cardano-hw-cli
-%global pkg_name cardano-hw-cli
+%global pkg_version 1.9.1
 %bcond_with tests
 Name:     %{pkg_name}
 Version:	%{pkg_version}
